@@ -217,3 +217,10 @@ body {
 .footer-icons {
     margin: 20px 10px;
 }
+
+.foo-icons {
+    color: black;
+}
+.foo-icons:hover {
+    color: #FF4c68;
+}
